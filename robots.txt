@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rserlial.github.io/sitemap
+Sitemap: https://rserlial.github.io/app/sitemap
+Sitemap: https://rserlial.github.io/assets/sitemap
+Sitemap: https://rserlial.github.io/css/sitemap
+Sitemap: https://rserlial.github.io/includes/sitemap
+Sitemap: https://rserlial.github.io/item/sitemap
+Sitemap: https://rserlial.github.io/src/sitemap
